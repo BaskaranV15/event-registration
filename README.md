@@ -25,7 +25,6 @@ Publish the website in the given URL.
 ## DESIGN:
 figma
 ## OUTPUT:
-
-
+![output](figma.jpg)
 ## Result:
 thus the experiment executed sucessfully
